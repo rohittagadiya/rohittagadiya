@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**rohittagadiya/rohittagadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on https://photoadking.com project
+- 🔭 I'm currently working on Angular and Ionic languages
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Angular and Ionic
+- 🤔 I’m looking for help with https://www.buymeacoffee.com/coffeeforrohit
+- 💬 Ask me about Angular, Ionic and Flutter
+- 📫 How to reach me: 
+      Email: rohit.tagadiya@gmail.com
+      Skype: cid.5191b82a3fed72e7
+- 😄 Pronouns: Rohit
+- ⚡ Fun fact: Love to code and contribute
+
