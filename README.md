@@ -13,5 +13,5 @@ Here are some ideas to get you started:
       Email: rohit.tagadiya@gmail.com
       Skype: cid.5191b82a3fed72e7
 - 😄 Pronouns: Rohit
-- ⚡ Fun fact: Love to code and contribute
+- ⚡ Fun fact: The color theme improves website recognition by 80%
 
