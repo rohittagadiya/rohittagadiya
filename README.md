@@ -4,6 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on https://smartpass.app project
+- 🏫 I'm currently studying MSc Artificial Intelligence and Robotics from University of Hertfordshire (London, UK)
 - 🔭 I'm currently working on Angular and Ionic languages
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Angular and Ionic
