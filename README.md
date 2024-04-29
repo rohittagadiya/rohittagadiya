@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I'm currently working on Angular and Ionic languages
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on Angular and Ionic
-- 🤔 I’m looking for help with https://www.buymeacoffee.com/coffeeforrohit
 - 💬 Ask me about Angular
 - 📫 How to reach me: 
       Email: rohit.tagadiya@gmail.com
